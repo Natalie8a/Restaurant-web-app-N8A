@@ -1,4 +1,5 @@
-# Free React / Next.js / Tailwind Cruip template
+# Made using:
+Free React / Next.js / Tailwind Cruip template
 
 ## Live demo
 
