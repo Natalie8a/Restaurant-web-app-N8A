@@ -1,5 +1,5 @@
-# Made using:
-Free React / Next.js / Tailwind Cruip template
+# Will come back here to tailwind later
+Made using: Free React / Next.js / Tailwind Cruip template
 
 ## Live demo
 
